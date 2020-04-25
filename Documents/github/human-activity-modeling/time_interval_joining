@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 24 14:25:56 2020
+
+@author: stanley-yu
+"""
+import pandas as pd 
+import numpy as np 
+
+df1 = pd.DataFrame({'time' : pd.date_range('1/1/2018', periods=20, freq='10min'), 'value' : np.random.randint(2, 20, size=20)})
+df2 = pd.DataFrame({'start_time' : ['2018-01-01 00:00:00', '2018-01-01 00:00:00','2018-01-01 01:00:00', '2018-01-01 01:00:00', '2018-01-01 01:00:00', '2018-01-01 02:00:00' ], 'end_time' : ['2018-01-01 01:00:00', '2018-01-01 01:00:00', '2018-01-01 02:00:00','2018-01-01 02:00:00', '2018-01-01 02:00:00', '2018-01-01 03:00:00'], 'event' : ['A', 'B', 'C', 'D', 'E', 'F'] })
+
+df1 = df1.sample(5)
+df2[['start_time', 'end_time']] = df2.iloc[:,0:2].apply(pd.to_datetime)

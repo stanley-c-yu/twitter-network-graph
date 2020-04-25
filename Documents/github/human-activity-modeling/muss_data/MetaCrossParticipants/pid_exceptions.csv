@@ -1,0 +1,9 @@
+PID,REASON
+SPADES_4,"doubtful placement/orientation"
+SPADES_7,"Non dominant wrist sensor is malfunctioning. Y axis is always -8g."
+SPADES_10,"doubtful placement/orientation"
+SPADES_14,"doubtful placement/orientation"
+SPADES_32,"No dominant ankle sensor"
+SPADES_33,"Annotation files are corrupted."
+SPADES_35,"doubtful placement/orientation"
+SPADES_45,"Domiant thigh GT3X file is not decodable through Actilife."

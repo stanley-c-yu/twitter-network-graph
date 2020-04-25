@@ -1,0 +1,103 @@
+PID,SENSOR_ID,SENSOR_PLACEMENT,X,Y,Z
+SPADES_1,TAS1E23150084,dominant waist,-X,-Y,Z
+SPADES_2,TAS1E23150128,dominant ankle,-X,-Y,Z
+SPADES_2,TAS1E23150066,non dominant wrist,-X,-Y,Z
+SPADES_3,TAS1E23150167,non dominant ankle,-X,-Y,Z
+SPADES_4,TAS1E23150075,non dominant waist,-X,-Y,Z
+SPADES_4,TAS1E23150085,dominant ankle,-X,Y,-Z
+SPADES_4,TAS1E23150162,non dominant ankle,X,-Y,-Z
+SPADES_4,TAS1E23150175,non dominant wrist,-Y,X,Z
+SPADES_7,TAS1E23150162,non dominant ankle,-X,Y,-Z
+SPADES_7,TAS1E23150152,dominant ankle,-X,-Y,Z
+SPADES_8,TAS1E23150152,dominant ankle,-X,-Y,Z
+SPADES_8,TAS1E23150162,non dominant ankle,-X,-Y,Z
+SPADES_9,TAS1E23150152,dominant ankle,-X,-Y,Z
+SPADES_10,TAS1E23150162,non dominant ankle,-X,-Y,Z
+SPADES_10,TAS1E23150066,non dominant wrist,X,-Y,-Z
+SPADES_10,TAS1E23150179,dominant wrist,X,-Y,-Z
+SPADES_11,TAS1E23150152,dominant ankle,-X,-Y,Z
+SPADES_11,TAS1E23150854,dominant wrist,-X,-Y,Z
+SPADES_11,TAS1E23150179,dominant thigh,-X,Y,-Z
+SPADES_14,TAS1E23150866,dominant wrist,-X,-Y,Z
+SPADES_14,TAS1E23150881,non dominant wrist,-X,-Y,Z
+SPADES_14,TAS1E23150854,non dominant ankle,Y,-X,Z
+SPADES_14,TAS1E23150075,dominant ankle,-Y,X,Z
+SPADES_16,TAS1E23150066,dominant ankle,-X,-Y,Z
+SPADES_16,TAS1E23150136,non dominant ankle,-X,-Y,Z
+SPADES_18,TAS1E23150866,dominant ankle,-X,Y,-Z
+SPADES_18,TAS1E23150854,non dominant ankle,Y,-X,Z
+SPADES_19,TAS1E23150152,non dominant wrist,-X,Y,Z
+SPADES_19,TAS1E23150180,dominant wrist,-X,Y,Z
+SPADES_19,TAS1E23150084,dominant waist,-X,Y,Z
+SPADES_19,TAS1E23150136,non dominant waist,-X,Y,Z
+SPADES_19,TAS1E23150168,non dominant ankle,X,-Y,Z
+SPADES_19,TAS1E23150167,dominant ankle,-X,Y,Z
+SPADES_21,TAS1E23150163,dominant ankle,-X,Y,-Z
+SPADES_22,TAS1E23150085,non dominant ankle,X,-Y,-Z
+SPADES_23,TAS1E23150854,dominant thigh,-X,-Y,Z
+SPADES_23,TAS1E23150881,non dominant ankle,-X,-Y,Z
+SPADES_25,TAS1E23150866,non dominant ankle,-X,-Y,Z
+SPADES_25,TAS1E23150881,dominant ankle,-X,-Y,Z
+SPADES_26,TAS1E23150854,dominant thigh,-X,-Y,Z
+SPADES_26,TAS1E23150180,non dominant ankle,-X,-Y,Z
+SPADES_26,TAS1E23150141,dominant ankle,-Y,X,Z
+SPADES_27,TAS1E23150139,non dominant ankle,-X,-Y,Z
+SPADES_27,TAS1E23150141,dominant ankle,-X,-Y,Z
+SPADES_28,TAS1E23150168,non dominant ankle,-X,-Y,Z
+SPADES_28,TAS1E23150866,dominant ankle,-X,Y,-Z
+SPADES_29,TAS1E23150167,non dominant ankle,-X,-Y,Z
+SPADES_30,TAS1E23150854,non dominant wrist,-X,Y,Z
+SPADES_30,TAS1E23150167,dominant wrist,-X,Y,Z
+SPADES_30,TAS1E23150066,non dominant waist,-X,Y,Z
+SPADES_30,TAS1E23150179,dominant waist,-X,Y,Z
+SPADES_30,TAS1E23150139,dominant ankle,-X,Y,Z
+SPADES_30,TAS1E23150162,non dominant ankle,X,-Y,Z
+SPADES_31,TAS1E23150075,non dominant wrist,-X,-Y,Z
+SPADES_31,TAS1E23150136,dominant wrist,-X,-Y,Z
+SPADES_32,TAS1E23150180,non dominant waist,-X,-Y,Z
+SPADES_32,TAS1E23150128,dominant thigh,-X,-Y,Z
+SPADES_32,TAS1E23150139,non dominant ankle,Y,-X,Z
+SPADES_34,TAS1E23150075,non dominant ankle,-Y,X,Z
+SPADES_34,TAS1E23150180,dominant ankle,-X,-Y,Z
+SPADES_35,TAS1E23150139,dominant wrist,-X,-Y,Z
+SPADES_35,TAS1E23150179,non dominant ankle,-X,-Y,Z
+SPADES_35,TAS1E23150084,dominant ankle,-Y,X,Z
+SPADES_36,TAS1E23150179,non dominant ankle,-X,-Y,Z
+SPADES_36,TAS1E23150084,dominant ankle,-Y,X,Z
+SPADES_37,TAS1E23150167,dominant thigh,-X,-Y,Z
+SPADES_37,TAS1E23150139,dominant ankle,-X,-Y,Z
+SPADES_38,TAS1E23150108,non dominant ankle,-X,-Y,Z
+SPADES_39,TAS1E23150136,dominant wrist,-X,-Y,Z
+SPADES_39,TAS1E23150875,dominant ankle,-Y,X,Z
+SPADES_39,TAS1E23150179,non dominant ankle,-X,-Y,Z
+SPADES_40,TAS1E23150085,non dominant ankle,Y,-X,Z
+SPADES_41,TAS1E23150180,dominant thigh,-X,-Y,Z
+SPADES_41,TAS1E23150085,non dominant ankle,-X,-Y,Z
+SPADES_41,TAS1E23150875,dominant ankle,Y,-X,Z
+SPADES_42,TAS1E23150179,non dominant wrist,-X,Y,Z
+SPADES_42,TAS1E23150854,dominant wrist,-X,Y,Z
+SPADES_42,TAS1E23150168,non dominant waist,-X,Y,Z
+SPADES_42,TAS1E23150152,dominant waist,-X,Y,Z
+SPADES_42,TAS1E23150085,non dominant ankle,-X,Y,Z
+SPADES_42,TAS1E23150875,dominant ankle,-X,Y,Z
+SPADES_43,TAS1E23150180,non dominant wrist,-X,-Y,Z
+SPADES_43,TAS1E23150167,dominant wrist,-X,-Y,Z
+SPADES_43,TAS1E23150108,non dominant ankle,-X,-Y,Z
+SPADES_43,TAS1E35150166,dominant ankle,X,-Y,-Z
+SPADES_45,TAS1E23150136,non dominant wrist,-X,-Y,Z
+SPADES_45,TAS1E23150162,non dominant ankle,X,-Y,-Z
+SPADES_45,TAS1E35150166,dominant ankle,-X,-Y,Z
+SPADES_46,TAS1E23150875,dominant ankle,-X,-Y,Z
+SPADES_47,TAS1E23150085,non dominant ankle,-X,-Y,Z
+SPADES_47,TAS1E23150167,dominant ankle,-X,-Y,Z
+SPADES_48,TAS1E23150085,non dominant ankle,-X,-Y,Z
+SPADES_48,TAS1E23150167,dominant ankle,-X,-Y,Z
+SPADES_49,TAS1E23150108,non dominant ankle,-X,Y,-Z
+SPADES_49,TAS1E23150167,dominant ankle,-X,-Y,Z
+SPADES_50,TAS1E23150168,dominant ankle,-X,-Y,Z
+SPADES_51,TAS1E23150179,non dominant wrist,-X,Y,Z
+SPADES_51,TAS1E23150180,dominant wrist,-X,Y,Z
+SPADES_51,TAS1E23150854,dominant waist,-X,Y,Z
+SPADES_51,TAS1E23150167,non dominant waist,-X,Y,Z
+SPADES_51,TAS1E23150139,non dominant ankle,-X,Y,Z
+SPADES_51,TAS1E23150152,dominant ankle,X,-Y,Z
